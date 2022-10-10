@@ -48,7 +48,7 @@
     "updater": {
       "active": true,
       "endpoints": ["https://0ca1-84-54-66-181.eu.ngrok.io/update/{{current_version}}/"],
-      "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDdDRDcwNzM5RDE1MEZGQUYKUldTdi8xRFJPUWZYZkV3QmxMcURzcC92cDdzUHJiMG5meXZFK1pEVDFHOHJxbU1adjB5akkrZEUK"
+      "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IEEzNzRFMDY3MzJDQjAzQUQKUldTdEE4c3laK0IwbzlHWVFXUlVLOFF0KzVZYlZBRVd0NytQWXFJSDQvc0pEemtXSXByWmxxbzkK"
     },
     "windows": [
       {
