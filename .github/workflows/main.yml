@@ -40,6 +40,8 @@ jobs:
         uses: tauri-apps/tauri-action@v0
 
         env:
+          TAURI_PRIVATE_KEY: dW50cnVzdGVkIGNvbW1lbnQ6IHJzaWduIGVuY3J5cHRlZCBzZWNyZXQga2V5ClJXUlRZMEl5TDRoYm1hb1FDUWpNVzl1Ukdpdk9weUFJZzZCTE1yaEtwWFdXMXczWW56UUFBQkFBQUFBQUFBQUFBQUlBQUFBQThLWFRTMytDZy9TcTNSNjVQQlFzMkI3RmJCRHl1cGd1MkM1My9xempqTXJwdHpuSnExaXkyaTVJTXFORGxsdkRvTU5sMmVCcGRpeDRQTHltTVVZNHl0VFBBejcya3NJd2tKL05DZW5yWmF2MGdRejdZUG5DZnFydWhta0E4RzgzK2NCdWw4RG51L0k9Cg==
+          TAURI_KEY_PASSWORD: 123123d.
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           tagName: v__VERSION__ # tauri-action replaces \_\_VERSION\_\_ with the app version
